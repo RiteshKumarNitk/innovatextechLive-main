@@ -28,7 +28,7 @@ const Offices = ({ invert = false, ...props }) => {
         </Office>
       </li>
       <li>
-        <Office name="London" invert={invert}>
+        <Office name="Rajasthan" invert={invert}>
         Kartarpur Road, Jaipur, Rajasthan, India, 
           <br />
           302006

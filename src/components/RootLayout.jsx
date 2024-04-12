@@ -9,10 +9,11 @@ import { HiMenuAlt4 } from "react-icons/hi";
 import { IoMdClose } from "react-icons/io";
 import Button from "./Button";
 import clsx from "clsx";
+import Image from "next/image";
 import Offices from "./Offices";
 import SocialMedia from "./SocialMedia";
 import Footer from "./Footer";
-import innovate from "../images/innovatextech.png";
+import innovatextech from "../images/innovatextech.png";
 
 
 const Header = ({
@@ -30,7 +31,11 @@ const Header = ({
         {/* Logo */}
         <Link href={"/"} aria-label="Home">
           <div className="flex items-center">
-            <img src={innovate} alt="Logo" className="" /> {/* Add image before text */}
+          {/* <Image
+      src={innovatextech}
+    className="w-13 h-13 rounded-full p-4"
+      alt="Picture of the author"
+    /> */}
             <Logo invert={invert}>InnovateXtechnology</Logo>
           </div>
         </Link>

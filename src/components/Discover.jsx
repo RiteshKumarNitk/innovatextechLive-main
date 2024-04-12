@@ -11,7 +11,7 @@ const Discover = () => {
           At InnovateX Technology Import, we collaborate closely with our clients to understand their <strong className="font-semibold text-neutral-950">needs</strong> and goals, immersing ourselves in their daily operations to gain insights into their business processes.
         </p>
         <p>
-          Our approach involves comprehensive research and analysis, where our team conducts in-depth investigations and assessments. From shadowing company directors to analyzing data, we leave no stone unturned in understanding our clients' businesses.
+          Our approach involves comprehensive research and analysis, where our team conducts in-depth investigations and assessments. From shadowing company directors to analyzing data, we leave no stone unturned in understanding our clients businesses.
         </p>
         <p>
           Once our thorough audit is complete, we provide our clients with a detailed <strong className="font-semibold text-neutral-950">plan</strong> of action, accompanied by a transparent budget outline.
